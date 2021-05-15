@@ -1,0 +1,17 @@
+{
+    "Simens Healthcare":{
+        "MAGNETOM Avanto":{
+            "Quantity": 10,
+            "Price": 200000.00,
+            "Details":"MAGNETOM Avanto, A Tim+Dot System is the landmark in 1.5T imaging due to Tim technology in combination with a dramatic reduction in acoustic noise, and a comprehensive application range up to 205 cm whole-body imaging. With the integration of Dot, the power of Tim is multiplied resulting in greater image consistency and diagnostic confidence, greater ease-of-use, and a day that's more productive than ever before."
+        }
+    },
+    "Philips Healthcare":{
+        "Ingenia Elition 3.0T X":{
+            "Quantity": 12,
+            "Price": 611174.00,
+            "Details":"The Philips Ingenia Elition solution offers MR imaging techniques, while setting new direction for clinical research in 3.0T imaging based on gradient- and RF designs. The Ingenia Elition delivers on superb image quality, and performs MRI exams up to 50% faster¹. Fast overall exam-time is achieved by improving patient handling setup time at the bore with the touchless guided patient setup, combined with accelerations in both 2D- and 3D scanning. Furthermore, the Ingenia Elition offers an immersive audio-visual experience to help you to calm patients and guide them through MR exams."
+        }
+    }
+    
+}
